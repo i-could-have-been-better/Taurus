@@ -1,0 +1,1 @@
+"D:\dingbing\software\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-7gvzqvz9c3623aba --n quickstartFunctions --r --project "F:\dingbing\applet\Taurus" --report_first --report
